@@ -53,3 +53,10 @@ Uzraksiet tekstu:
 <Vārds Uzvārds> DevOps repozitorijs pamati iesācējiem
 ![](http://bildites.lv/images/xtb854az/155211/original.jpg)
 Rezultāts
+
+**Uzdevums:**
+* Atlasot rezultātus no pagājušā gada 20 līdz 21 aprīlim var atrast commit kurš ir datēts ar 16 aprīli? Kāpēc tā ir? Atbildi apkopot module_2 > README.md un pārsūtīt rezultātu Github.
+
+ **Atbilde:** 
+
+* Tāpēc kā **git commit** bija izdarīts 16 aprīlī, bet **git push** bija izdarīts vēlāk.
